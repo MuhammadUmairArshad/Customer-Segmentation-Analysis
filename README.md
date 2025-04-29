@@ -1,4 +1,5 @@
 # Customer Segmentation Analysis - SQL & Power BI
+### Dashboard Link: https://app.powerbi.com/reportEmbed?reportId=9f0dbac4-659a-4ec0-a7c8-0d7e3746d314&autoAuth=true&ctid=bcb4e457-125f-4e50-9814-da88002ed5f9
 
 ### Objective:  
 To segment customers based on purchasing behavior using RFM (Recency, Frequency, Monetary) analysis and help businesses tailor marketing strategies, loyalty programs, and customer engagement initiatives based on customer value and lifecycle stage.
